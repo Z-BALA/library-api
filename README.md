@@ -36,12 +36,4 @@ Acesse a documentação em: http://localhost:8000/docs
   "genero": "string"
 }
 ```
-
-<!-- {
-  "titulo": "A Culpa é das Estrelas",
-  "autor": "John Green",
-  "ano": 2012,
-  "genero": "Drama"
-} -->
-
-<!-- ENVIANDO... VLW -->
+👍✌️
